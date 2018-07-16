@@ -1,4 +1,4 @@
-numpy==1.7.1
-matplotlib==2.1
+numpy
+matplotlib
 PyYAML
 update-copyright
